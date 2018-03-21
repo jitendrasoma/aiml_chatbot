@@ -1,8 +1,8 @@
-I want to order a movie
-order movie
-I want to order $actor movie
-I want to order $title
-book movie
+Book movie
+I want to book $actor movie
+I want to book $title
+I want to book $language movie
+I want to book $genre movie
 I want to book a movie
 I want to book tickets for a movie 
 I want to book tickets for a movie today
