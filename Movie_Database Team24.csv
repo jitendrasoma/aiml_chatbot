@@ -1,0 +1,106 @@
+Movie_Name,Language,Actor_Name,Theatre_Name,Genre,Show_Date,Show_Time,Location
+Padmaavat,Hindi,Deepika Padukone,PVR Growel,Family,28-03-2018,1:30 PM,Mumbai
+Padmaavat,Hindi,Deepika Padukone,PVR Growel,Family,28-03-2018,4:45 PM,Mumbai
+Padmaavat,Hindi,Deepika Padukone,PVR Growel,Family,28-03-2018,7:30 PM,Mumbai
+Padmaavat,Hindi,Deepika Padukone,PVR Icon,Family,29-03-2018,1:30 PM,Mumbai
+Padmaavat,Hindi,Deepika Padukone,PVR Icon,Family,29-03-2018,4:45 PM,Mumbai
+Padmaavat,Hindi,Deepika Padukone,PVR Icon,Family,29-03-2018,7:30 PM,Mumbai
+Padmaavat,Hindi,Deepika Padukone,Inox Inorbit Mall,Family,29-03-2018,1:30 PM,Mumbai
+Padmaavat,Hindi,Deepika Padukone,Inox Inorbit Mall,Family,29-03-2018,4:45 PM,Mumbai
+Padmaavat,Hindi,Deepika Padukone,Inox Inorbit Mall,Family,29-03-2018,7:30 PM,Mumbai
+Padmaavat,Hindi,Deepika Padukone,Inox Inorbit Mall,Family,27-03-2018,1:30 PM,Mumbai
+Padmaavat,Hindi,Deepika Padukone,Inox Inorbit Mall,Family,27-03-2018,4:45 PM,Mumbai
+Padmaavat,Hindi,Deepika Padukone,Inox Inorbit Mall,Family,27-03-2018,7:30 PM,Mumbai
+Padmaavat,Hindi,Deepika Padukone,Asian GPR,Family,28-03-2018,1:30 PM,Hyderabad
+Padmaavat,Hindi,Deepika Padukone,Asian GPR,Family,28-03-2018,4:45 PM,Hyderabad
+Padmaavat,Hindi,Deepika Padukone,Asian GPR,Family,28-03-2018,7:30 PM,Hyderabad
+Padmaavat,Hindi,Deepika Padukone,Carnival Cinemas,Family,28-03-2018,1:30 PM,Hyderabad
+Padmaavat,Hindi,Deepika Padukone,Carnival Cinemas,Family,28-03-2018,4:45 PM,Hyderabad
+Padmaavat,Hindi,Deepika Padukone,Carnival Cinemas,Family,28-03-2018,7:30 PM,Hyderabad
+Padmaavat,Hindi,Deepika Padukone,Carnival Cinemas,Family,29-03-2018,1:30 PM,Hyderabad
+Padmaavat,Hindi,Deepika Padukone,Carnival Cinemas,Family,29-03-2018,4:45 PM,Hyderabad
+Padmaavat,Hindi,Deepika Padukone,Carnival Cinemas,Family,29-03-2018,7:30 PM,Hyderabad
+Tholi Prema,Telugu,Naga Shaurya,Gokul,Comedy,28-03-2018,1:30 PM,Hyderabad
+Tholi Prema,Telugu,Naga Shaurya,Gokul,Comedy,28-03-2018,4:45 PM,Hyderabad
+Tholi Prema,Telugu,Naga Shaurya,Gokul,Comedy,28-03-2018,7:30 PM,Hyderabad
+Tholi Prema,Telugu,Naga Shaurya,Gokul,Comedy,29-03-2018,1:30 PM,Hyderabad
+Tholi Prema,Telugu,Naga Shaurya,Gokul,Comedy,29-03-2018,4:45 PM,Hyderabad
+Tholi Prema,Telugu,Naga Shaurya,Gokul,Comedy,29-03-2018,7:30 PM,Hyderabad
+Tholi Prema,Telugu,Naga Shaurya,Sangeet,Comedy,28-03-2018,1:30 PM,Hyderabad
+Tholi Prema,Telugu,Naga Shaurya,Sangeet,Comedy,28-03-2018,4:45 PM,Hyderabad
+Tholi Prema,Telugu,Naga Shaurya,Sangeet,Comedy,28-03-2018,7:30 PM,Hyderabad
+Tholi Prema,Telugu,Naga Shaurya,Sangeet,Comedy,29-03-2018,1:30 PM,Hyderabad
+Tholi Prema,Telugu,Naga Shaurya,Sangeet,Comedy,29-03-2018,4:45 PM,Hyderabad
+Tholi Prema,Telugu,Naga Shaurya,Sangeet,Comedy,29-03-2018,7:30 PM,Hyderabad
+Rangasthalam,Telugu,Ram Charan,Asian GPR,Action,28-03-2018,1:30 PM,Hyderabad
+Rangasthalam,Telugu,Ram Charan,Asian GPR,Action,28-03-2018,4:45 PM,Hyderabad
+Rangasthalam,Telugu,Ram Charan,Asian GPR,Action,28-03-2018,7:30 PM,Hyderabad
+Rangasthalam,Telugu,Ram Charan,Cine Town,Action,29-03-2018,1:30 PM,Hyderabad
+Rangasthalam,Telugu,Ram Charan,Cine Town,Action,29-03-2018,4:45 PM,Hyderabad
+Rangasthalam,Telugu,Ram Charan,Cine Town,Action,29-03-2018,7:30 PM,Hyderabad
+Rangasthalam,Telugu,Ram Charan,Cinepolis Mantra Mall,Action,28-03-2018,1:30 PM,Hyderabad
+Rangasthalam,Telugu,Ram Charan,Cinepolis Mantra Mall,Action,28-03-2018,4:45 PM,Hyderabad
+Rangasthalam,Telugu,Ram Charan,Cinepolis Mantra Mall,Action,28-03-2018,7:30 PM,Hyderabad
+Rangasthalam,Telugu,Ram Charan,Cinepolis Mantra Mall,Action,29-03-2018,1:30 PM,Hyderabad
+Rangasthalam,Telugu,Ram Charan,Cinepolis Mantra Mall,Action,29-03-2018,4:45 PM,Hyderabad
+Rangasthalam,Telugu,Ram Charan,Cinepolis Mantra Mall,Action,29-03-2018,7:30 PM,Hyderabad
+Pacific Rim Uprising,Hindi,,Cinepolis Magnet Mall,Animation,27-03-2018,1:30 PM,Mumbai
+Pacific Rim Uprising,Hindi,,Cinepolis Magnet Mall,Animation,27-03-2018,4:45 PM,Mumbai
+Pacific Rim Uprising,Hindi,,Cinepolis Magnet Mall,Animation,27-03-2018,7:30 PM,Mumbai
+Pacific Rim Uprising,English,,PVR Growel,Animation,25-03-2018,1:30 PM,Mumbai
+Pacific Rim Uprising,English,,PVR Growel,Animation,25-03-2018,4:45 PM,Mumbai
+Pacific Rim Uprising,English,,PVR Growel,Animation,25-03-2018,7:30 PM,Mumbai
+Pacific Rim Uprising,English,,Cinemax Infinity Mall,Animation,26-03-2018,1:30 PM,Mumbai
+Pacific Rim Uprising,English,,Cinemax Infinity Mall,Animation,26-03-2018,4:45 PM,Mumbai
+Pacific Rim Uprising,English,,Cinemax Infinity Mall,Animation,26-03-2018,7:30 PM,Mumbai
+Pacific Rim Uprising,English,,PVR Icon,Animation,26-03-2018,1:30 PM,Mumbai
+Pacific Rim Uprising,English,,PVR Icon,Animation,26-03-2018,4:45 PM,Mumbai
+Pacific Rim Uprising,English,,PVR Icon,Animation,26-03-2018,7:30 PM,Mumbai
+Pacific Rim Uprising,English,,Inox Maheshwari ,Animation,27-03-2018,1:30 PM,Hyderabad
+Pacific Rim Uprising,English,,Asian GPR,Animation,25-03-2018,1:30 PM,Hyderabad
+Pacific Rim Uprising,English,,Asian GPR,Animation,25-03-2018,4:45 PM,Hyderabad
+Pacific Rim Uprising,English,,Asian GPR,Animation,25-03-2018,7:30 PM,Hyderabad
+Pacific Rim Uprising,English,,PVR Inorbit Mall,Animation,26-03-2018,1:30 PM,Hyderabad
+Pacific Rim Uprising,English,,PVR Inorbit Mall,Animation,26-03-2018,4:45 PM,Hyderabad
+Pacific Rim Uprising,English,,PVR Inorbit Mall,Animation,26-03-2018,7:30 PM,Hyderabad
+Pacific Rim Uprising,English,,PVR Forum Mall,Animation,26-03-2018,1:30 PM,Hyderabad
+Pacific Rim Uprising,English,,PVR Forum Mall,Animation,26-03-2018,4:45 PM,Hyderabad
+Pacific Rim Uprising,English,,PVR Forum Mall,Animation,26-03-2018,7:30 PM,Hyderabad
+Paddington 2,Hindi,,PVR Inorbit Mall,Action,28-03-2018,1:30 PM,Hyderabad
+Paddington 2,Hindi,,PVR Lodha Xperia,Action,28-03-2018,4:45 PM,Mumbai
+Paddington 2,Hindi,,PVR Lodha Xperia,Action,28-03-2018,7:30 PM,Mumbai
+Paddington 2,English,,PVR Lodha Xperia,Action,29-03-2018,4:45 PM,Mumbai
+Paddington 2,English,,PVR Lodha Xperia,Action,29-03-2018,7:30 PM,Mumbai
+Paddington 2,English,,PVR Lodha Xperia,Action,27-03-2018,1:30 PM,Mumbai
+Paddington 2,English,,PVR Lodha Xperia,Action,27-03-2018,4:45 PM,Mumbai
+Paddington 2,English,,PVR Lodha Xperia,Action,27-03-2018,7:30 PM,Mumbai
+Paddington 2,English,,PVR Inorbit Mall,Action,28-03-2018,1:30 PM,Hyderabad
+Paddington 2,English,,PVR Inorbit Mall,Action,28-03-2018,4:45 PM,Hyderabad
+Paddington 2,English,,PVR Inorbit Mall,Action,28-03-2018,7:30 PM,Hyderabad
+Paddington 2,English,,PVR Inorbit Mall,Action,29-03-2018,1:30 PM,Hyderabad
+Paddington 2,English,,PVR Inorbit Mall,Action,29-03-2018,4:45 PM,Hyderabad
+Paddington 2,English,,PVR Inorbit Mall,Action,29-03-2018,7:30 PM,Hyderabad
+Paddington 2,English,,Inox Maheshwari ,Action,29-03-2018,1:30 PM,Hyderabad
+Paddington 2,English,,Inox Maheshwari ,Action,29-03-2018,4:45 PM,Hyderabad
+Paddington 2,English,,Inox Maheshwari ,Action,29-03-2018,7:30 PM,Hyderabad
+Paddington 2,English,,Inox Maheshwari ,Action,27-03-2018,1:30 PM,Hyderabad
+Paddington 2,English,,Inox Maheshwari ,Action,27-03-2018,4:45 PM,Hyderabad
+Paddington 2,English,,Inox Maheshwari ,Action,27-03-2018,7:30 PM,Hyderabad
+Raid,Hindi,Ajay Devgan,PVR Icon,Action,27-03-2018,1:30 PM,Mumbai
+Raid,Hindi,Ajay Devgan,PVR Icon,Action,27-03-2018,4:45 PM,Mumbai
+Raid,Hindi,Ajay Devgan,PVR Icon,Action,27-03-2018,7:30 PM,Mumbai
+Raid,Hindi,Ajay Devgan,PVR Icon,Action,25-03-2018,1:30 PM,Mumbai
+Raid,Hindi,Ajay Devgan,PVR Icon,Action,25-03-2018,4:45 PM,Mumbai
+Raid,Hindi,Ajay Devgan,PVR Icon,Action,25-03-2018,7:30 PM,Mumbai
+Raid,Hindi,Ajay Devgan,Inox Glomax mall,Action,26-03-2018,1:30 PM,Mumbai
+Raid,Hindi,Ajay Devgan,Inox Glomax mall,Action,26-03-2018,4:45 PM,Mumbai
+Raid,Hindi,Ajay Devgan,Inox Glomax mall,Action,26-03-2018,7:30 PM,Mumbai
+Raid,Hindi,Ajay Devgan,Inox Glomax mall,Action,26-03-2018,1:30 PM,Mumbai
+Raid,Hindi,Ajay Devgan,Inox Glomax mall,Action,26-03-2018,4:45 PM,Mumbai
+Raid,Hindi,Ajay Devgan,Inox Glomax mall,Action,26-03-2018,7:30 PM,Mumbai
+Raid,Hindi,Ajay Devgan,Asian CineSquare,Action,28-03-2018,1:30 PM,Hyderabad
+Raid,Hindi,Ajay Devgan,Asian CineSquare,Action,28-03-2018,4:45 PM,Hyderabad
+Raid,Hindi,Ajay Devgan,Asian CineSquare,Action,28-03-2018,7:30 PM,Hyderabad
+Raid,Hindi,Ajay Devgan,Asian CineSquare,Action,29-03-2018,1:30 PM,Hyderabad
+Raid,Hindi,Ajay Devgan,Asian CineSquare,Action,29-03-2018,4:45 PM,Hyderabad
+Raid,Hindi,Ajay Devgan,Asian CineSquare,Action,29-03-2018,7:30 PM,Hyderabad

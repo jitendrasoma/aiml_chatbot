@@ -1,0 +1,121 @@
+Movie_Name,Language,Actor_Name,Theatre_Name,Genre,Show_Date,Show_Time,Location
+Ferdinand,English,,Cinepolis Binnypet Mall,Animation,27-03-2018,1:00 PM,Bangalore
+Ferdinand,English,,Cinepolis Binnypet Mall,Animation,27-03-2018,4:00 PM,Bangalore
+Ferdinand,English,,Cinepolis Binnypet Mall,Animation,27-03-2018,7:00 PM,Bangalore
+Ferdinand,English,,PVR Vega City,Animation,25-03-2018,1:00 PM,Bangalore
+Ferdinand,English,,PVR Vega City,Animation,25-03-2018,4:00 PM,Bangalore
+Ferdinand,English,,PVR Vega City,Animation,25-03-2018,7:00 PM,Bangalore
+Ferdinand,English,,Cinepolis Orion East Mall,Animation,26-03-2018,1:00 PM,Bangalore
+Ferdinand,English,,Cinepolis Orion East Mall,Animation,26-03-2018,4:00 PM,Bangalore
+Ferdinand,English,,Cinepolis Orion East Mall,Animation,26-03-2018,7:00 PM,Bangalore
+Ferdinand,English,,PVR Forum Mall,Animation,26-03-2018,1:00 PM,Bangalore
+Ferdinand,English,,PVR Forum Mall,Animation,26-03-2018,4:00 PM,Bangalore
+Ferdinand,English,,PVR Forum Mall,Animation,26-03-2018,7:00 PM,Bangalore
+Ferdinand,English,,Inox Maheshwari ,Animation,27-03-2018,1:00 PM,Hyderabad
+Ferdinand,English,,Inox Maheshwari ,Animation,27-03-2018,4:00 PM,Hyderabad
+Ferdinand,English,,Inox Maheshwari ,Animation,27-03-2018,7:00 PM,Hyderabad
+Ferdinand,English,,Asian GPR,Animation,25-03-2018,1:00 PM,Hyderabad
+Ferdinand,English,,Asian GPR,Animation,25-03-2018,4:00 PM,Hyderabad
+Ferdinand,English,,Asian GPR,Animation,25-03-2018,7:00 PM,Hyderabad
+Ferdinand,English,,PVR Inorbit Mall,Animation,26-03-2018,1:00 PM,Hyderabad
+Ferdinand,English,,PVR Inorbit Mall,Animation,26-03-2018,4:00 PM,Hyderabad
+Ferdinand,English,,PVR Inorbit Mall,Animation,26-03-2018,7:00 PM,Hyderabad
+Ferdinand,English,,PVR Forum Mall,Animation,26-03-2018,1:00 PM,Hyderabad
+Ferdinand,English,,PVR Forum Mall,Animation,26-03-2018,4:00 PM,Hyderabad
+Ferdinand,English,,PVR Forum Mall,Animation,26-03-2018,7:00 PM,Hyderabad
+Hichki,Hindi,Rani Mukherji,PVR Vega City,Family,28-03-2018,1:00 PM,Bangalore
+Hichki,Hindi,Rani Mukherji,PVR Vega City,Family,28-03-2018,4:00 PM,Bangalore
+Hichki,Hindi,Rani Mukherji,PVR Vega City,Family,28-03-2018,7:00 PM,Bangalore
+Hichki,Hindi,Rani Mukherji,PVR Forum Mall,Family,29-03-2018,1:00 PM,Bangalore
+Hichki,Hindi,Rani Mukherji,PVR Forum Mall,Family,29-03-2018,4:00 PM,Bangalore
+Hichki,Hindi,Rani Mukherji,PVR Forum Mall,Family,29-03-2018,7:00 PM,Bangalore
+Hichki,Hindi,Rani Mukherji,Cinepolis Orion East Mall,Family,29-03-2018,1:00 PM,Bangalore
+Hichki,Hindi,Rani Mukherji,Cinepolis Orion East Mall,Family,29-03-2018,4:00 PM,Bangalore
+Hichki,Hindi,Rani Mukherji,Cinepolis Orion East Mall,Family,29-03-2018,7:00 PM,Bangalore
+Hichki,Hindi,Rani Mukherji,Cinepolis Orion East Mall,Family,27-03-2018,1:00 PM,Bangalore
+Hichki,Hindi,Rani Mukherji,Cinepolis Orion East Mall,Family,27-03-2018,4:00 PM,Bangalore
+Hichki,Hindi,Rani Mukherji,Cinepolis Orion East Mall,Family,27-03-2018,7:00 PM,Bangalore
+Hichki,Hindi,Rani Mukherji,Asian GPR,Family,28-03-2018,1:00 PM,Hyderabad
+Hichki,Hindi,Rani Mukherji,Asian GPR,Family,28-03-2018,4:00 PM,Hyderabad
+Hichki,Hindi,Rani Mukherji,Asian GPR,Family,28-03-2018,7:00 PM,Hyderabad
+Hichki,Hindi,Rani Mukherji,Cine Town,Family,29-03-2018,1:00 PM,Hyderabad
+Hichki,Hindi,Rani Mukherji,Cine Town,Family,29-03-2018,4:00 PM,Hyderabad
+Hichki,Hindi,Rani Mukherji,Cine Town,Family,29-03-2018,7:00 PM,Hyderabad
+Hichki,Hindi,Rani Mukherji,Cinepolis Manjeera Mall,Family,28-03-2018,1:00 PM,Hyderabad
+Hichki,Hindi,Rani Mukherji,Cinepolis Manjeera Mall,Family,28-03-2018,4:00 PM,Hyderabad
+Hichki,Hindi,Rani Mukherji,Cinepolis Manjeera Mall,Family,28-03-2018,7:00 PM,Hyderabad
+Hichki,Hindi,Rani Mukherji,Cinepolis Manjeera Mall,Family,29-03-2018,1:00 PM,Hyderabad
+Hichki,Hindi,Rani Mukherji,Cinepolis Manjeera Mall,Family,29-03-2018,4:00 PM,Hyderabad
+Hichki,Hindi,Rani Mukherji,Cinepolis Manjeera Mall,Family,29-03-2018,7:00 PM,Hyderabad
+Jumanji: Welcome to the Jungle,English,Dwayne Johnson,PVR Inorbit Mall,Action,28-03-2018,1:00 PM,Hyderabad
+Jumanji: Welcome to the Jungle,English,Dwayne Johnson,"PVR, Play House",Action,28-03-2018,1:00 PM,Bangalore
+Jumanji: Welcome to the Jungle,English,Dwayne Johnson,"PVR, Play House",Action,28-03-2018,4:00 PM,Bangalore
+Jumanji: Welcome to the Jungle,English,Dwayne Johnson,"PVR, Play House",Action,28-03-2018,7:00 PM,Bangalore
+Jumanji: Welcome to the Jungle,English,Dwayne Johnson,"PVR, Play House",Action,29-03-2018,1:00 PM,Bangalore
+Jumanji: Welcome to the Jungle,English,Dwayne Johnson,"PVR, Play House",Action,29-03-2018,4:00 PM,Bangalore
+Jumanji: Welcome to the Jungle,English,Dwayne Johnson,"PVR, Play House",Action,29-03-2018,7:00 PM,Bangalore
+Jumanji: Welcome to the Jungle,English,Dwayne Johnson,"PVR, Play House",Action,29-03-2018,1:00 PM,Bangalore
+Jumanji: Welcome to the Jungle,English,Dwayne Johnson,"PVR, Play House",Action,29-03-2018,4:00 PM,Bangalore
+Jumanji: Welcome to the Jungle,English,Dwayne Johnson,"PVR, Play House",Action,29-03-2018,7:00 PM,Bangalore
+Jumanji: Welcome to the Jungle,English,Dwayne Johnson,"PVR, Play House",Action,27-03-2018,1:00 PM,Bangalore
+Jumanji: Welcome to the Jungle,English,Dwayne Johnson,"PVR, Play House",Action,27-03-2018,4:00 PM,Bangalore
+Jumanji: Welcome to the Jungle,English,Dwayne Johnson,"PVR, Play House",Action,27-03-2018,7:00 PM,Bangalore
+Jumanji: Welcome to the Jungle,English,Dwayne Johnson,PVR Inorbit Mall,Action,28-03-2018,4:00 PM,Hyderabad
+Jumanji: Welcome to the Jungle,English,Dwayne Johnson,PVR Inorbit Mall,Action,28-03-2018,7:00 PM,Hyderabad
+Jumanji: Welcome to the Jungle,English,Dwayne Johnson,PVR Inorbit Mall,Action,29-03-2018,1:00 PM,Hyderabad
+Jumanji: Welcome to the Jungle,English,Dwayne Johnson,PVR Inorbit Mall,Action,29-03-2018,4:00 PM,Hyderabad
+Jumanji: Welcome to the Jungle,English,Dwayne Johnson,PVR Inorbit Mall,Action,29-03-2018,7:00 PM,Hyderabad
+Jumanji: Welcome to the Jungle,English,Dwayne Johnson,Inox Maheshwari ,Action,29-03-2018,1:00 PM,Hyderabad
+Jumanji: Welcome to the Jungle,English,Dwayne Johnson,Inox Maheshwari ,Action,29-03-2018,4:00 PM,Hyderabad
+Jumanji: Welcome to the Jungle,English,Dwayne Johnson,Inox Maheshwari ,Action,29-03-2018,7:00 PM,Hyderabad
+Jumanji: Welcome to the Jungle,English,Dwayne Johnson,Inox Maheshwari ,Action,27-03-2018,1:00 PM,Hyderabad
+Jumanji: Welcome to the Jungle,English,Dwayne Johnson,Inox Maheshwari ,Action,27-03-2018,4:00 PM,Hyderabad
+Jumanji: Welcome to the Jungle,English,Dwayne Johnson,Inox Maheshwari ,Action,27-03-2018,7:00 PM,Hyderabad
+Kirrak Party,Telugu,Nikhil,Prasads,Comedy,28-03-2018,1:00 PM,Hyderabad
+Kirrak Party,Telugu,Nikhil,Prasads,Comedy,28-03-2018,4:00 PM,Hyderabad
+Kirrak Party,Telugu,Nikhil,Prasads,Comedy,28-03-2018,7:00 PM,Hyderabad
+Kirrak Party,Telugu,Nikhil,Prasads,Comedy,29-03-2018,1:00 PM,Hyderabad
+Kirrak Party,Telugu,Nikhil,Prasads,Comedy,29-03-2018,4:00 PM,Hyderabad
+Kirrak Party,Telugu,Nikhil,Prasads,Comedy,29-03-2018,7:00 PM,Hyderabad
+Kirrak Party,Telugu,Nikhil,PVR Forum Mall,Comedy,28-03-2018,1:00 PM,Hyderabad
+Kirrak Party,Telugu,Nikhil,PVR Forum Mall,Comedy,28-03-2018,4:00 PM,Hyderabad
+Kirrak Party,Telugu,Nikhil,PVR Forum Mall,Comedy,28-03-2018,7:00 PM,Hyderabad
+Kirrak Party,Telugu,Nikhil,PVR Forum Mall,Comedy,29-03-2018,1:00 PM,Hyderabad
+Kirrak Party,Telugu,Nikhil,PVR Forum Mall,Comedy,29-03-2018,4:00 PM,Hyderabad
+Kirrak Party,Telugu,Nikhil,PVR Forum Mall,Comedy,29-03-2018,7:00 PM,Hyderabad
+MLA,Telugu,Kalyan Ram,Asian GPR,Action,28-03-2018,1:00 PM,Hyderabad
+MLA,Telugu,Kalyan Ram,Asian GPR,Action,28-03-2018,4:00 PM,Hyderabad
+MLA,Telugu,Kalyan Ram,Asian GPR,Action,28-03-2018,7:00 PM,Hyderabad
+MLA,Telugu,Kalyan Ram,Cine Town,Action,29-03-2018,1:00 PM,Hyderabad
+MLA,Telugu,Kalyan Ram,Cine Town,Action,29-03-2018,4:00 PM,Hyderabad
+MLA,Telugu,Kalyan Ram,Cine Town,Action,29-03-2018,7:00 PM,Hyderabad
+MLA,Telugu,Kalyan Ram,Cinepolis Manjeera Mall,Action,28-03-2018,1:00 PM,Hyderabad
+MLA,Telugu,Kalyan Ram,Cinepolis Manjeera Mall,Action,28-03-2018,4:00 PM,Hyderabad
+MLA,Telugu,Kalyan Ram,Cinepolis Manjeera Mall,Action,28-03-2018,7:00 PM,Hyderabad
+MLA,Telugu,Kalyan Ram,Cinepolis Manjeera Mall,Action,29-03-2018,1:00 PM,Hyderabad
+MLA,Telugu,Kalyan Ram,Cinepolis Manjeera Mall,Action,29-03-2018,4:00 PM,Hyderabad
+MLA,Telugu,Kalyan Ram,Cinepolis Manjeera Mall,Action,29-03-2018,7:00 PM,Hyderabad
+Raid,Hindi,Ajay Devgan,PVR Central Spirit Mall,Action,27-03-2018,1:00 PM,Bangalore
+Raid,Hindi,Ajay Devgan,PVR Central Spirit Mall,Action,27-03-2018,4:00 PM,Bangalore
+Raid,Hindi,Ajay Devgan,PVR Central Spirit Mall,Action,27-03-2018,7:00 PM,Bangalore
+Raid,Hindi,Ajay Devgan,PVR Central Spirit Mall,Action,25-03-2018,1:00 PM,Bangalore
+Raid,Hindi,Ajay Devgan,PVR Central Spirit Mall,Action,25-03-2018,4:00 PM,Bangalore
+Raid,Hindi,Ajay Devgan,PVR Central Spirit Mall,Action,25-03-2018,7:00 PM,Bangalore
+Raid,Hindi,Ajay Devgan,PVR Arena Mall,Action,26-03-2018,1:00 PM,Bangalore
+Raid,Hindi,Ajay Devgan,PVR Arena Mall,Action,26-03-2018,4:00 PM,Bangalore
+Raid,Hindi,Ajay Devgan,PVR Arena Mall,Action,26-03-2018,7:00 PM,Bangalore
+Raid,Hindi,Ajay Devgan,PVR Forum Mall,Action,26-03-2018,1:00 PM,Bangalore
+Raid,Hindi,Ajay Devgan,PVR Forum Mall,Action,26-03-2018,4:00 PM,Bangalore
+Raid,Hindi,Ajay Devgan,PVR Forum Mall,Action,26-03-2018,7:00 PM,Bangalore
+Raid,Hindi,Ajay Devgan,Asian GPR,Action,28-03-2018,1:00 PM,Hyderabad
+Raid,Hindi,Ajay Devgan,Asian GPR,Action,28-03-2018,4:00 PM,Hyderabad
+Raid,Hindi,Ajay Devgan,Asian GPR,Action,28-03-2018,7:00 PM,Hyderabad
+Raid,Hindi,Ajay Devgan,Asian GPR,Action,29-03-2018,1:00 PM,Hyderabad
+Raid,Hindi,Ajay Devgan,Asian GPR,Action,29-03-2018,4:00 PM,Hyderabad
+Raid,Hindi,Ajay Devgan,Asian GPR,Action,29-03-2018,7:00 PM,Hyderabad
+Raid,Hindi,Ajay Devgan,PVR Forum Mall,Action,28-03-2018,1:00 PM,Hyderabad
+Raid,Hindi,Ajay Devgan,PVR Forum Mall,Action,28-03-2018,4:00 PM,Hyderabad
+Raid,Hindi,Ajay Devgan,PVR Forum Mall,Action,28-03-2018,7:00 PM,Hyderabad
+Raid,Hindi,Ajay Devgan,PVR Forum Mall,Action,29-03-2018,1:00 PM,Hyderabad
+Raid,Hindi,Ajay Devgan,PVR Forum Mall,Action,29-03-2018,4:00 PM,Hyderabad
+Raid,Hindi,Ajay Devgan,PVR Forum Mall,Action,29-03-2018,7:00 PM,Hyderabad
